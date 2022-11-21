@@ -10,32 +10,15 @@
             "name": "Alex's Place",
             "country": "Spain",
             "city": "Barcelona",
-            "numOfGuests": 2,
+            "numOfGuests": 4,
             "checkIn": "12-12-2022",
             "checkOut": "16-12-2022",
             "address": "Ultimate drive 5, 00010 Ultimate",
             "location": "41.3485806,1.9787689",
             "days": 4,
             "refundable": "TRUE",
-           "url": "https://cdn.pixabay.com/photo/2018/06/14/21/15/bedroom-3475656_960_720.jpg"
-          }
-        ]
-      },
-      {
-        "rentalNo": 2,
-        "rentalDetails": [
-          {
-            "name": "Chrissy's Home",
-            "country": "Finland",
-            "city": "Rovaniemi",
-            "numOfGuests": 2,
-            "checkIn": "16-12-2022",
-            "checkOut": "20-12-2022",
-            "address": "Ultimate drive 10, 00010 Ultimate",
-            "location": "66.631137,25.250602",
-            "days": 4,
-            "refundable": "TRUE",
-           "url": "https://cdn.pixabay.com/photo/2021/08/27/01/33/bedroom-6577523_960_720.jpg"
+            "manageBooking": "possible",
+           "url": "https://cdn.pixabay.com/photo/2015/05/05/01/10/house-753270__340.jpg"
           }
         ]
       }
@@ -48,35 +31,42 @@
         "rentalNo": 1,
         "rentalDetails": [
           {
-            "name": "Alex's Place",
-            "country": "The Neatherlands",
-            "city": "Amsterdam",
-            "numOfGuests": 4,
-            "checkIn": "12-01-2023",
-            "checkOut": "16-01-2023",
-            "address": "Ultimate drive 5, 00010 Ultimate",
-            "location": "52.358157,4.907564",
-            "days": 4,
-            "refundable": "FALSE",
-           "url": "https://cdn.pixabay.com/photo/2018/06/14/21/15/bedroom-3475656_960_720.jpg"
-          }
-        ]
-      },
-      {
-        "rentalNo": 2,
-        "rentalDetails": [
-          {
-            "name": "Chrissy's Home",
+            "name": "Chrissy's Place",
             "country": "Germany",
             "city": "Berlin",
             "numOfGuests": 2,
+            "checkIn": "12-01-2023",
+            "checkOut": "16-01-2023",
+            "address": "Ultimate drive 5, 00010 Ultimate",
+            "location": "52.519566, 13.298905",
+            "days": 4,
+            "refundable": "FALSE",
+            "manageBooking": "not_possible",
+           "url": "https://cdn.pixabay.com/photo/2019/03/08/20/14/kitchen-living-room-4043091__340.jpg"
+          }
+        ]
+      }
+    ]
+  },
+      {
+    "bookingNo": 54321,
+    "rentals": [
+      {
+        "rentalNo": 1,
+        "rentalDetails": [
+          {
+            "name": "Maria's Home",
+            "country": "Austria",
+            "city": "Graz",
+            "numOfGuests": 5,
             "checkIn": "16-12-2022",
             "checkOut": "20-12-2022",
             "address": "Ultimate drive 10, 00010 Ultimate",
-            "location": "52.484605, 13.372541",
+            "location": "47.052497, 15.325121",
             "days": 4,
             "refundable": "TRUE",
-           "url": "https://cdn.pixabay.com/photo/2021/08/27/01/33/bedroom-6577523_960_720.jpg"
+            "manageBooking": "possible",
+           "url": "https://cdn.pixabay.com/photo/2013/08/30/12/56/holiday-house-177401__340.jpg"
           }
         ]
       }
