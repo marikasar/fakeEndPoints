@@ -56,17 +56,17 @@
         "rentalDetails": [
           {
             "name": "Maria's Home",
-            "country": "Austria",
-            "city": "Graz",
+            "country": "Netherlands",
+            "city": "Amsterdam",
             "numOfGuests": 5,
             "checkIn": "16-12-2022",
             "checkOut": "20-12-2022",
             "address": "Ultimate drive 10, 00010 Ultimate",
-            "location": "47.052497, 15.325121",
+            "location": "52.364502, 4.892523",
             "days": 4,
             "refundable": "TRUE",
             "manageBooking": "possible",
-           "url": "https://cdn.pixabay.com/photo/2013/08/30/12/56/holiday-house-177401__340.jpg"
+           "url": "https://cdn.pixabay.com/photo/2020/06/27/16/40/apartment-5346458__340.jpg"
           }
         ]
       }
